@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='osx' display-mode='rendered' timelineScrubberEnabled='true'>
+    <pages>
+        <page name='Intro'/>
+        <page name='What is Swift?'/>
+        <page name='Hello World'/>
+        <page name='Simple Values'/>
+        <page name='Control Flow'/>
+        <page name='Functions and Closures'/>
+        <page name='Objects and Classes'/>
+        <page name='Enumerations'/>
+        <page name='Protocols and Extensions'/>
+        <page name='Things I didn&apos;t Cover'/>
+    </pages>
+</playground>
